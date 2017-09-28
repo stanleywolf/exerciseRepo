@@ -1,4 +1,4 @@
 # exerciseRepo
 dataTypeAndVariables
 Make some changes on README!!!
-Something happend!!!
+Its ok about that??
