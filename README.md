@@ -1,6 +1,5 @@
 # exerciseRepo
 dataTypeAndVariables
 Make some changes on README!!!
-Something happend!!!
-Offf its not ok
-
+Hello again!!!!
+I'm Stanislav Nikolov
